@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6u0022/v1
+canonical_location: https://kanripo.org/bkk/KR6u0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛為心王菩薩說投陀經卷上
+  identifiers:
+    alt_id:
+    - T85n2886
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2886.xml
+    old_id: T85n2886
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0022_000.yaml, hash: 'sha256:4ed0bf0892eba339c6ea187522252530ae203d69e86176233ef5e5839bff4a5d'}
+  - {seq: 1, filename: KR6u0022_001.yaml, hash: 'sha256:668e097e873e123ec3e553a561fb96b19d3f73d9133aeeea76ceed746e6909c4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0022_001.markers.yaml, hash: 'sha256:a0f015cb7d1c25772689f2c196d5c627fc5e8df7b03a9d07c3ad4a7e92fb9aac'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0022_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3894
+  label: 佛為心王菩薩說投陀經卷上
+  type: juan
+  level: 1
+hash: sha256:4572d450dbc9c284737648b6b0636ebf2d6a3acaff84388b556c0264a7aa0e8d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

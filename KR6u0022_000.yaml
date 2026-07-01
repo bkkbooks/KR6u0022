@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0022/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛為心王菩薩說投陀經卷上
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2886.xml
+    old_id: T85n2886
+hash: sha256:4ed0bf0892eba339c6ea187522252530ae203d69e86176233ef5e5839bff4a5d
