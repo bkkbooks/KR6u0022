@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0022_000.yaml, hash: 'sha256:4ed0bf0892eba339c6ea187522252530ae203d69e86176233ef5e5839bff4a5d'}
-  - {seq: 1, filename: KR6u0022_001.yaml, hash: 'sha256:668e097e873e123ec3e553a561fb96b19d3f73d9133aeeea76ceed746e6909c4'}
+  - {seq: 1, filename: KR6u0022_001.yaml, hash: 'sha256:1a6332f5ab329236d639a4a6f91789b8ba3dd49cc16deace11e9b7831c0888ce'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0022_001.markers.yaml, hash: 'sha256:a0f015cb7d1c25772689f2c196d5c627fc5e8df7b03a9d07c3ad4a7e92fb9aac'}
+  - {seq: 0, role: markers, filename: assets/KR6u0022_000.markers.yaml, hash: 'sha256:632621b91f48caef5657756967eb60ad3bb57167040cb3e880852d9c75986901'}
+  - {seq: 1, role: markers, filename: assets/KR6u0022_001.markers.yaml, hash: 'sha256:f057ed15fc7e328fc7dad57e41d0b55b9f68faac40d859fa1e8407aa604c81a9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛為心王菩薩說投陀經卷上
   type: juan
   level: 1
-hash: sha256:4572d450dbc9c284737648b6b0636ebf2d6a3acaff84388b556c0264a7aa0e8d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5168a303a3c5ca75ea30c031c2f89b0ea1f500ea127e6ca50c8cc2d135cb38cf
