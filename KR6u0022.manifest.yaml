@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0022/v1
 canonical_location: https://kanripo.org/bkk/KR6u0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛為心王菩薩說投陀經卷上
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0022_000.yaml, hash: 'sha256:4ed0bf0892eba339c6ea187522252530ae203d69e86176233ef5e5839bff4a5d'}
-  - {seq: 1, filename: KR6u0022_001.yaml, hash: 'sha256:1a6332f5ab329236d639a4a6f91789b8ba3dd49cc16deace11e9b7831c0888ce'}
+  - {seq: 1, filename: KR6u0022_001.yaml, hash: 'sha256:aa46ca532feb584bd550a2817ed966ea11c534d120ae233099c4d26ccc89cd86'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0022_000.markers.yaml, hash: 'sha256:632621b91f48caef5657756967eb60ad3bb57167040cb3e880852d9c75986901'}
-  - {seq: 1, role: markers, filename: assets/KR6u0022_001.markers.yaml, hash: 'sha256:f057ed15fc7e328fc7dad57e41d0b55b9f68faac40d859fa1e8407aa604c81a9'}
+  - {seq: 1, role: markers, filename: assets/KR6u0022_001.markers.yaml, hash: 'sha256:fc9241281e646c467922a45c19c90538555034ffbc5694b3595aad55ecff2086'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛為心王菩薩說投陀經卷上
   type: juan
   level: 1
-hash: sha256:5168a303a3c5ca75ea30c031c2f89b0ea1f500ea127e6ca50c8cc2d135cb38cf
+hash: sha256:9f7a7e114926369f2af0c4351600f7a6318a8d5c53e6d2a4d96151a91344859d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
